@@ -1,4 +1,4 @@
-# Redux Crash Course
+# react_redux_boilerplate
 
 > Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
 
